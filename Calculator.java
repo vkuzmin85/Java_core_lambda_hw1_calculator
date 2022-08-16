@@ -9,7 +9,7 @@ public class Calculator {
         if (y != 0) {
             return x / y;
         } else {
-            System.out.println("На нуль делить нельзя");
+            System.out.println("РќР° РЅСѓР»СЊ РґРµР»РёС‚СЊ РЅРµР»СЊР·СЏ");
         }
         return 0;
     };
